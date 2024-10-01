@@ -1,6 +1,6 @@
 # Online Pizza
 
-Welcome to the **Online Pizza** project! This is a simple React application that allows users to order pizza online. It was developed as part of my learning journey with React.js.
+Welcome to the **Online Pizza** project! This is a simple React application that shows different pizza list. It was developed as part of my learning journey with React.js.
 
 ## Features
 
